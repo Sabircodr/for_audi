@@ -8,7 +8,7 @@ yesBtn.addEventListener('click', () => {
     question.innerHTML = 'Awww,Happy Valentine\'s Day.';
     setTimeout(() => {
         window.location.href = 'wish/index.html';
-    }, 3500);
+    }, 2500);
 });
 noBtn.addEventListener('mouseover', () => {
     const i = Math.floor(Math.random() * (wrapperRect.width - noBtnRect.width)) + 1;
