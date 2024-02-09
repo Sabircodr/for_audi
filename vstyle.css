@@ -76,6 +76,7 @@ button:nth-child(2) {
     .wrapper {
         width: 380px;
         height: 380px;
+        padding-left: 10px;
     }
     .question{
         font-size: 2em;
