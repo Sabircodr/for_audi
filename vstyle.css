@@ -74,8 +74,8 @@ button:nth-child(2) {
 @media (max-width: 650px) {
     /*for mobile phone*/
     .wrapper {
-        width: 300px;
-        height: 400px;
+        width: 380px;
+        height: 380px;
     }
     .question{
         font-size: 1em;
