@@ -119,7 +119,7 @@ section .main-content {
   max-width: 450px;
   width: 100%;
   margin-right: 100px;
-  transform: rotate(40deg);
+  transform: rotate(20deg);
   filter: drop-shadow(-10px -10px 200px #f71059);
 }
 
