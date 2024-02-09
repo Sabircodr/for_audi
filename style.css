@@ -71,3 +71,15 @@ button:nth-child(2) {
     color: #e82a5d;
 }
 
+@media (max-width: 650px) {
+    /*for mobile phone*/
+    .wrapper {
+        position: relative;
+        width: 380px;
+        height: 380px;
+        padding: 20px;
+    }
+    .question{
+        font-size: 2em;
+    }
+}
