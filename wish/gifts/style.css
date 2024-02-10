@@ -9,7 +9,7 @@ body {
   width: 100%;
   height: 100vh;
   overflow: auto;
-  background: black;
+  background: rgba(35, 11, 19, 0.964);;
   padding-left: 20px;
 }
 nav {
